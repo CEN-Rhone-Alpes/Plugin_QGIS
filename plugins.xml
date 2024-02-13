@@ -54,6 +54,6 @@
         <deprecated>False</deprecated>
         <tracker>https://github.com/CEN-Rhone-Alpes/Plugin_QGIS/issues</tracker>
         <repository>https://github.com/CEN-Rhone-Alpes/Plugin_QGIS</repository>
-        <tags>cenra,copie</tags>
+        <tags>cenra,sicen</tags>
     </pyqgis_plugin>
 </plugins>
