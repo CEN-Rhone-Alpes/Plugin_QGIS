@@ -15,6 +15,6 @@ XCOPY \\100.100.100.100\bd_sig\z_QGIS\Formations\tests_oslandia_b\default %APPDA
 
 echo END COPY PROFILES >>\\100.100.100.100\users\tlaveille\logQGIS3\log%USERNAME%.txt
 echo START UNINSTALL QGIS 2 >>\\100.100.100.100\users\tlaveille\logQGIS3\log%USERNAME%.txt
-
+%programfiles%\QGIS 2.18\uninstall.exe /S
 echo END UNINSTALL QGIS 2 >>\\100.100.100.100\users\tlaveille\logQGIS3\log%USERNAME%.txt
 echo %time% %date% : FULL PROCESSE END >>\\100.100.100.100\users\tlaveille\logQGIS3\log%USERNAME%.txt
